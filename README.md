@@ -1,8 +1,6 @@
 <h1 align="center">Yohh👋, I'm Siddhesh Ghag</h1>
 <h3 align="center">An aspiring Web Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slayer-x164&label=Profile%20views&color=0e75b6&style=flat" alt="slayer-x164" /> </p>
-
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **Siddheshghag150@gmail.com**
