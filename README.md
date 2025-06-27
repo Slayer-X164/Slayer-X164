@@ -1,20 +1,53 @@
-<h1 align="center">Yohh👋, I'm Siddhesh Ghag</h1>
-<h3 align="center">An aspiring Web Dev</h3>
 
-- 🌱 I’m currently learning **Javascript**
+<p><img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"></p>
+<h2>Hey there! I’m Sidd</h2>
 
-- 📫 How to reach me **Siddheshghag150@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sid_d_hesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sid_d_hesh" height="30" width="40" /></a>
+<h3>👨🏻‍💻 &nbsp;About Me</h3>
+<p>
+💡 &nbsp;I’m passionate about web development and creating modern, interactive experiences.<br>
+🌱 &nbsp;Currently exploring 3D on the web with <strong>Three.js</strong> and <strong>React Three Fiber</strong>.<br>
+🎯 &nbsp;On a journey to learn more about JavaScript, creative coding, and backend technologies.<br>
+📫 &nbsp;Feel free to connect with me for collaboration or interesting discussions.<br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slayer-x164&show_icons=true&locale=en&layout=compact" alt="slayer-x164" /></p>
+<h3>🛠 &nbsp;Tech Stack</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slayer-x164&show_icons=true&locale=en" alt="slayer-x164" /></p>
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" alt="CSS">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" alt="Next.js">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slayer-x164&" alt="slayer-x164" /></p>
+**3D/Web Graphics**
+<p>
+<img src="https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js" alt="Three.js">&nbsp;
+<img src="https://img.shields.io/badge/-React%20Three%20Fiber-05122A?style=flat" alt="React Three Fiber">&nbsp;
+<img src="https://img.shields.io/badge/-WebGL-05122A?style=flat&logo=webgl" alt="WebGL">
+</p>
+
+**Backend / Databases**
+<p>
+<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB">&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL">
+</p>
+
+<h3>⚙️ &nbsp;GitHub Stats</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Slayer-x164&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slayer-x164&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<h3>🤝🏻 &nbsp;Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhesh-ghag/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:siddheshghag150@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+</p>
+
+<hr>
+
